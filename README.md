@@ -1,6 +1,6 @@
 # my-seller
 
-> vue2.0 慕课网 饿了么 学习
+> vue2.0 饿了么 学习
 
 ## Build Setup
 
